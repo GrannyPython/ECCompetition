@@ -1,4 +1,4 @@
-package competition;
+package competitionKarabaev;
 
 import java.util.*;
 import java.util.stream.Collectors;

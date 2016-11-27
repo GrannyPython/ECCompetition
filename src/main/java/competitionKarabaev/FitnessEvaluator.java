@@ -1,4 +1,4 @@
-package competition;
+package competitionKarabaev;
 
 /**
  * Created by mikhail on 03.11.2016.

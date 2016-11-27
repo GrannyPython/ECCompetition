@@ -1,9 +1,9 @@
-package competition;
+package competitionKarabaev;
 
 
 import java.util.ArrayList;
 
-import static competition.Individual.crossover;
+import static competitionKarabaev.Individual.crossover;
 
 public class MyAlgorithm implements Algorithm {
     private int populationSize;
